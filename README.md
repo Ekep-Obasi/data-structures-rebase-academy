@@ -8,7 +8,7 @@ Welcome to the Data Structures Implementation repository for the Data Structures
 2. [Data Structures Implemented](#data-structures-implemented)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [License](#license)
+5. [Disclaimer](#license)
 
 ## Introduction
 
@@ -16,11 +16,11 @@ Data structures are essential components of computer science and software develo
 
 ## Data Structures Implemented
 
-1. [**Linked Lists**](): Singly linked list, doubly linked list.
-2. [**Stacks**]():  linked list-based stack.
-3. [**Queues**]():  queue, linked list-based queue.
-4. [**Trees**](): Binary search tree, AVL tree, Red-Black tree.
-5. [**Graphs**](): Adjacency list representation.
+1. [**Linked Lists**](https://github.com/Ekep-Obasi/data-structures-rebase-academy/tree/main/src/linked-list): Singly linked list, doubly linked list.
+2. [**Stacks**](https://github.com/Ekep-Obasi/data-structures-rebase-academy/tree/main/src/stacks):  linked list-based stack.
+3. [**Queues**](https://github.com/Ekep-Obasi/data-structures-rebase-academy/tree/main/src/queues):  queue, linked list-based queue.
+4. [**Trees**](https://github.com/Ekep-Obasi/data-structures-rebase-academy/tree/main/src/trees): Binary search tree, AVL tree, Red-Black tree.
+5. [**Graphs**](https://github.com/Ekep-Obasi/data-structures-rebase-academy/tree/main/src/graphs): Adjacency list representation.
 
 ## How to Use
 
@@ -38,6 +38,18 @@ npm run test
 ```
 5. Checkout to the `feat/implementation` to view the implementation of each data-structure
 6. Read through the code comments to understand the implementation details.
+
+## Contributing
+Contributions to this repository are welcome! If you'd like to contribute an implementation of a data structure, please follow these guidelines:
+
+1. Fork the repository.
+Create a new branch for your feature (git checkout -b feature/new-data-structure).
+2. Implement the data structure along with appropriate comments and explanations.
+Ensure all existing tests pass and add new tests if necessary.
+3. Commit your changes (git commit -am 'Add new data structure').
+4. Push to the branch (git push origin feature/new-data-structure).
+5. Create a new pull request.
+
 
 
 ## Disclaimer
