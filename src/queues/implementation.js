@@ -14,9 +14,9 @@ class Queue {
       /** @private */
       this.storage = {};
       /** @private */
-      this.frontIndex = 0;
+      this.head = 0;
       /** @private */
-      this.backIndex = -1;
+      this.tail = -1;
     }
   
     /**

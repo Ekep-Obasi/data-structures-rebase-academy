@@ -1,6 +1,8 @@
 # Stack Basics
 
-A stack is a fundamental data structure in computer science that follows the `Last In, First Out` (LIFO) and the `First In Last Out` principle. In JavaScript, stacks are commonly used for managing function calls, undo operations, and evaluating expressions.
+A stack is a fundamental data structure in computer science that follows the `Last In, First Out` (LIFO) and the `First In Last Out` principle. 
+
+>A stack is linear data structure that serves as a collection of elements with two main operations: *Push*, which adds an element to the collection, and. *Pop*, which removes the most recently added element.
 
 ## Essential Actions
 

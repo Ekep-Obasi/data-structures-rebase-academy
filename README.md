@@ -43,7 +43,10 @@ npm run test
 Contributions to this repository are welcome! If you'd like to contribute an implementation of a data structure, please follow these guidelines:
 
 1. Fork the repository.
-Create a new branch for your feature (git checkout -b feature/new-data-structure).
+Create a new branch for your feature 
+```git
+git checkout -b feature/new-data-structure
+```
 2. Implement the data structure along with appropriate comments and explanations.
 Ensure all existing tests pass and add new tests if necessary.
 3. Commit your changes (git commit -am 'Add new data structure').
